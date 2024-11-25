@@ -1,9 +1,9 @@
 <h1>
   Resume-Creator
 </h1>
-<h3>
+<h2>
   Summary 
-</h3>
+</h2>
 <p>
   A resume creator developed with HTML, CSS, and JavaScript is a web-based application designed to streamline the resume-building process. It features a clean, interactive interface where users can input personal information, education, work experience, skills, and achievements. The application dynamically displays the entered details in a visually appealing resume format, allowing real-time previews and edits.
 
